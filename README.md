@@ -5,6 +5,8 @@ It can convert either selected text or automatically extract and convert the mai
 
 Convenient for writing AI prompts.
 
+Chrome Web Store and Miscrosoft Edge Add-ons are under review.
+
 ## Features
 
 - Keyboard shortcut support (Alt+C / Option+C)
