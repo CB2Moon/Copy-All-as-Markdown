@@ -5,7 +5,8 @@ It can convert either selected text or automatically extract and convert the mai
 
 Convenient for writing AI prompts.
 
-Chrome Web Store and Miscrosoft Edge Add-ons are under review.
+[Chrome Web Store](https://chromewebstore.google.com/detail/copy-all-as-markdown/dkldakbooohchnkcagjlcloblpoocfcf)
+Miscrosoft Edge Add-ons is under review.
 
 ## Features
 
